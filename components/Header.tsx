@@ -15,6 +15,7 @@ function Header() {
           alt="trello logo"
           width={300}
           height={100}
+          priority
           className="object-contain pb-10 w-44 md:56 md:pb-0"
         />
         <div className="flex items-center justify-end flex-1 w-full space-x-5">
